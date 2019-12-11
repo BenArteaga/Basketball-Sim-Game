@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=GameTester
+comment1.params=
+comment1.target=void\ gameIntro()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=teams
+comment2.target=Team\ userFranchise(java.util.ArrayList)
+comment2.text=\n\ Gets\ the\ user's\ choice\ of\ team\n
+comment3.params=players
+comment3.target=void\ printPlayerList(java.util.ArrayList)
+comment4.params=players
+comment4.target=void\ leagueUpdate(java.util.ArrayList)
+comment5.params=players
+comment5.target=void\ playerSearch(java.util.ArrayList)
+comment6.params=players
+comment6.target=void\ insertSortOverall(java.util.ArrayList)
+comment7.params=
+comment7.target=int\ draftLottery()
+comment8.params=players\ team
+comment8.target=void\ cpuSelection(java.util.ArrayList,\ Team)
+comment9.params=players\ userTeam\ teams
+comment9.target=void\ draft(java.util.ArrayList,\ Team,\ java.util.ArrayList)
+numComments=11
